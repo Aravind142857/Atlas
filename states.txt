@@ -1,0 +1,178 @@
+// https://gist.github.com/dblandin/2991970
+Alaska
+Alabama
+Arkansas
+American Samoa
+Arizona
+California
+Colorado
+Connecticut
+District of Columbia
+Delaware
+Florida
+Georgia
+Guam
+Hawaii
+Iowa
+Idaho
+Illinois
+Indiana
+Kansas
+Kentucky
+Louisiana
+Massachusetts
+Maryland
+Maine
+Michigan
+Minnesota
+Missouri
+Mississippi
+Montana
+North Carolina
+North Dakota
+Nebraska
+New Hampshire
+New Jersey
+New Mexico
+Nevada
+New York
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Virginia
+Virgin Islands
+Vermont
+Washington
+Wisconsin
+West Virginia
+Wyoming
+Andhra Pradesh
+Arunachal Pradesh
+Assam
+Bihar
+Chhattisgarh
+Goa
+Gujarat
+Haryana
+Himachal Pradesh
+Jharkhand
+Karnataka
+Kerala
+Madhya Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Punjab
+Rajasthan
+Sikkim
+Tamil Nadu
+Telangana
+Tripura
+Uttar Pradesh
+Uttarakhand
+West Bengal
+Bedfordshire
+Buckinghamshire
+Cambridgeshire
+Cheshire
+Cleveland
+Cornwall
+Cumbria
+Derbyshire
+Devon
+Dorset
+Durham
+East Sussex
+Essex
+Gloucestershire
+Greater London
+Greater Manchester
+Hampshire
+Hertfordshire
+Kent
+Lancashire
+Leicestershire
+Lincolnshire
+Merseyside
+Norfolk
+North Yorkshire
+Northamptonshire
+Northumberland
+Nottinghamshire
+Oxfordshire
+Shropshire
+Somerset
+South Yorkshire
+Staffordshire
+Suffolk
+Surrey
+Tyne and Wear
+Warwickshire
+West Berkshire
+West Midlands
+West Sussex
+West Yorkshire
+Wiltshire
+Worcestershire
+Flintshire
+Glamorgan
+Merionethshire
+Monmouthshire
+Montgomeryshire
+Pembrokeshire
+Radnorshire
+Anglesey
+Breconshire
+Caernarvonshire
+Cardiganshire
+Carmarthenshire
+Denbighshire
+Aberdeen City
+Aberdeenshire
+Angus
+Argyll and Bute
+City of Edinburgh
+Clackmannanshire
+Dumfries and Galloway
+Dundee City
+East Ayrshire
+East Dunbartonshire
+East Lothian
+East Renfrewshire
+Eilean Siar
+Falkirk
+Fife
+Glasgow City
+Highland
+Inverclyde
+Midlothian
+Moray
+North Ayrshire
+North Lanarkshire
+Orkney Islands
+Perth and Kinross
+Renfrewshire
+Scottish Borders
+Shetland Islands
+South Ayrshire
+South Lanarkshire
+Stirling
+West Dunbartonshire
+West Lothian
+Antrim
+Armagh
+Down
+Fermanagh
+Derry and Londonderry
+Tyrone
